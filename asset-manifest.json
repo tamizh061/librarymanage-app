@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/librarymanage-app/static/css/main.241951ba.css",
+    "main.js": "/github.io/librarymanage-app/static/js/main.6438ae9b.js",
+    "index.html": "/github.io/librarymanage-app/index.html",
+    "main.241951ba.css.map": "/github.io/librarymanage-app/static/css/main.241951ba.css.map",
+    "main.6438ae9b.js.map": "/github.io/librarymanage-app/static/js/main.6438ae9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.6438ae9b.js"
+  ]
+}
